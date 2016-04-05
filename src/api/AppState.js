@@ -1,6 +1,7 @@
 /**
  * https://github.com/facebook/react-native/blob/master/Libraries/AppState/AppState.js
  */
+import 'babel-polyfill';
 import invariant from 'invariant';
 import DeviceEventEmitter from '../plugins/DeviceEventEmitter';
 
