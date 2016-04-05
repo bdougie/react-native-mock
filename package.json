@@ -51,6 +51,7 @@
     "babel-plugin-transform-react-display-name": "^6.4.0",
     "babel-plugin-transform-react-jsx": "^6.4.0",
     "babel-plugin-transform-regenerator": "^6.4.4",
+    "babel-plugin-transform-runtime": "^6.6.0",
     "babel-polyfill": "^6.7.4",
     "babel-preset-airbnb": "^1.0.1",
     "chai": "^3.5.0",
